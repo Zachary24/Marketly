@@ -1,0 +1,796 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6000 6000" width="2000" height="2000">
+	<title>monopoly</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #cdf5e4 } 
+		.s1 { fill: #e73411 } 
+		.s2 { fill: #e73411;stroke: #ffffff;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 40 } 
+		.t3 { font-size: 88px;fill: #fefdfd;font-weight: 500;font-family: "Kabale Medium Normal" } 
+		.s4 { fill: #060708 } 
+		.t5 { font-size: 21px;fill: #060808;font-family: "Times New Roman" } 
+		.t6 { font-size: 30px;text-transform: uppercase;fill: #060808;font-weight: 300;font-family: "Kabob Light" } 
+		.s7 { fill: #ff4204 } 
+		.s8 { fill: #f7f836 } 
+		.s9 { fill: #060808 } 
+		.t10 { font-size: 33px;fill: #060808;font-weight: 300;font-family: "Kabob Light" } 
+		.s11 { fill: #ff8117 } 
+		.s12 { fill: #ffffff;stroke: #060808;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 26 } 
+		.s13 { fill: #060808;stroke: #070809;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 14 } 
+		.t14 { font-size: 33px;fill: #020202;font-weight: 300;font-family: "Kabob Light" } 
+		.s15 { fill: #fffdfd;stroke: #060808;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 26 } 
+		.s16 { fill: #ff4203;stroke: #070809;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 26 } 
+		.s17 { fill: #fffdfd;stroke: #060808;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 40 } 
+		.s18 { fill: #fffdfd;stroke: #060808;stroke-linejoin: round;stroke-width: 13 } 
+		.s19 { fill: #ff8118 } 
+		.s20 { fill: #ff449b } 
+		.s21 { fill: #88aef1 } 
+		.s22 { fill: #430e37 } 
+		.s23 { fill: #e73411;stroke: #060808;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 14 } 
+		.s24 { fill: #cdf5e4;stroke: #060808;stroke-linejoin: round;stroke-width: 7 } 
+		.t25 { font-size: 21px;line-height: 25px;fill: #020202;font-weight: 300;font-family: "Kabob Light" } 
+		.t26 { font-size: 33px;line-height: 29px;fill: #020202;font-weight: 300;font-family: "Kabob Light" } 
+		.s27 { fill: #ffffff;stroke: #060808;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 14 } 
+		.s28 { fill: #0e2bd6;stroke: #060808;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 14 } 
+		.s29 { fill: #060808;stroke: #060808;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 14 } 
+		.s30 { fill: #2fc449 } 
+		.s31 { fill: #0e2bd6 } 
+		.t32 { font-size: 21px;line-height: 21px;text-transform: uppercase;fill: #020202;font-weight: 300;font-family: "Kabob Light" } 
+		.s33 { fill: #ff449b;stroke: #060808;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 14 } 
+		.s34 { fill: #307ce9;stroke: #060808;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 14 } 
+		.t35 { font-size: 21px;line-height: 27px;text-transform: uppercase;fill: #020202;font-weight: 300;font-family: "Kabob Light" } 
+		.t36 { font-size: 13px;line-height: 21px;text-transform: uppercase;fill: #020202;font-weight: 300;font-family: "Kabob Light" } 
+		.t37 { font-size: 21px;line-height: 24px;text-transform: uppercase;fill: #020202;font-weight: 300;font-family: "Kabob Light" } 
+		.t38 { font-size: 21px;line-height: 13px;text-transform: uppercase;fill: #020202;font-weight: 300;font-family: "Kabob Light" } 
+		.t39 { font-size: 30px;line-height: 13px;text-transform: uppercase;fill: #020202;font-weight: 300;font-family: "Kabob Light" } 
+		.s40 { fill: #f7f836;stroke: #060808;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 14 } 
+		.s41 { fill: #cdf5e4;stroke: #070809;stroke-linejoin: round;stroke-width: 13 } 
+		.s42 { fill: #cdf5e4;stroke: #070809;stroke-linejoin: round;stroke-width: 7 } 
+		.s43 { opacity: .3;fill: #ffffff;stroke: #060808;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 14 } 
+	</style>
+	<rect width="6000" height="6000" id="Background" style="fill: #ffffff"/>
+	<g id="Base">
+		<path id="Base" class="s0" d="m6058.5-26.2v6043.8l-6144.7-1v-6041.8z"/>
+		<g id="Logo">
+			<path id="Shape 1 copy" class="s1" d="m1794.8 3915.3l1966.1-2069.7c42.2-44.4 119.1-43.1 171.6 3l266.6 233.6c52.5 46 61 119.4 18.8 163.8l-1966.2 2069.8c-42.2 44.4-119 43.1-171.6-3l-266.5-233.6c-52.6-46.1-61-119.4-18.8-163.9z"/>
+			<path id="Shape 1" class="s2" d="m1879.8 3901.5l1896.8-1996c40.7-42.9 108.1-44.9 150.5-4.6l215 204.3c42.4 40.3 43.8 107.7 3.1 150.5l-1896.8 1996c-40.7 42.9-108.1 44.9-150.5 4.6l-215-204.3c-42.4-40.3-43.8-107.7-3.1-150.5z"/>
+			<text id="MONOPOLY" style="transform: matrix(3.508,-3.671,3.71,3.472,1347.509,4594.59)" >
+				<tspan x="182.3" y="66.5" class="t3" dx="0" >M</tspan><tspan  y="66.5" class="t3" dx="0 4 4 4 4 4 4 4" >ONOPOLY
+</tspan>
+			</text>
+		</g>
+		<g id="Chance Cards">
+			<path id="Circle" class="s4" d="m4371.7 3562.9c0 16.3-12.8 29.5-28.7 29.5-15.8 0-28.7-13.2-28.7-29.5 0-16.3 12.9-29.6 28.7-29.6 15.9 0 28.7 13.3 28.7 29.6z"/>
+			<text id="Bottom" style="transform: matrix(2.249,-2.238,2.262,2.225,3419.372,4453.969)" >
+				<tspan x="53.8" y="14.5" class="t5" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  • ?  • ?   
+</tspan>
+			</text>
+			<path id="Circle" class="s4" d="m3523.2 4404.6c0 16.3-12.8 29.5-28.7 29.5-15.8 0-28.7-13.2-28.7-29.5 0-16.3 12.9-29.5 28.7-29.5 15.9 0 28.7 13.2 28.7 29.5z"/>
+			<text id="Right" style="transform: matrix(-2.265,-2.223,2.246,-2.241,4150.222,5075.804)" >
+				<tspan x="52.9" y="14.5" class="t5" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" > ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ? 
+</tspan>
+			</text>
+			<text id="Right copy" style="transform: matrix(2.265,2.223,-2.246,2.241,4292.821,3477.967)" >
+				<tspan x="52.9" y="14.5" class="t5" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" > ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ? 
+</tspan>
+			</text>
+			<path id="Circle" class="s4" d="m4122.9 4990.7c0 16.3-12.8 29.5-28.7 29.5-15.8 0-28.7-13.2-28.7-29.5 0-16.3 12.9-29.6 28.7-29.6 15.9 0 28.7 13.3 28.7 29.6z"/>
+			<text id="Top" style="transform: matrix(-2.247,2.24,-2.264,-2.224,5031.131,4102.662)" >
+				<tspan x="66.8" y="14.5" class="t5" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  • ?
+</tspan>
+			</text>
+			<path id="Circle" class="s4" d="m4971.5 4166.4c0 13.7-10.7 24.7-24 24.7-13.2 0-23.9-11-23.9-24.7 0-13.6 10.7-24.6 23.9-24.6 13.3 0 24 11 24 24.6z"/>
+			<text id="Chance" style="transform: matrix(2.219,-2.172,2.163,2.23,3725.56,4716.057)" >
+				<tspan x="145.1" y="22.8" class="t6" dx="0" >C</tspan><tspan  y="22.8" class="t6" dx="0 2 2 2 2 2" >HANCE
+</tspan>
+			</text>
+		</g>
+		<g id="Community Chest Cards">
+			<path id="Circle copy" class="s4" d="m1637.2 2467.5c0-16.3 12.9-29.5 28.7-29.5 15.9 0 28.7 13.2 28.7 29.5 0 16.3-12.8 29.6-28.7 29.6-15.8 0-28.7-13.3-28.7-29.6z"/>
+			<text id="Bottom copy" style="transform: matrix(-2.249,2.238,-2.262,-2.225,2589.583,1576.448)" >
+				<tspan x="53.8" y="14.5" class="t5" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  • ?  • ?   
+</tspan>
+			</text>
+			<path id="Circle copy 2" class="s4" d="m2485.7 1625.8c0-16.3 12.9-29.5 28.7-29.5 15.9 0 28.7 13.2 28.7 29.5 0 16.3-12.8 29.6-28.7 29.6-15.8 0-28.7-13.3-28.7-29.6z"/>
+			<text id="Right copy 2" style="transform: matrix(2.265,2.223,-2.246,2.241,1858.733,954.613)" >
+				<tspan x="52.9" y="14.5" class="t5" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" > ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ? 
+</tspan>
+			</text>
+			<text id="Right copy 3" style="transform: matrix(-2.265,-2.223,2.246,-2.241,1716.134,2552.45)" >
+				<tspan x="52.9" y="14.5" class="t5" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" > ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ? 
+</tspan>
+			</text>
+			<path id="Circle copy 3" class="s4" d="m1886 1039.7c0-16.3 12.9-29.5 28.7-29.5 15.9 0 28.7 13.2 28.7 29.5 0 16.4-12.8 29.6-28.7 29.6-15.8 0-28.7-13.2-28.7-29.6z"/>
+			<text id="Top copy" style="transform: matrix(2.247,-2.24,2.264,2.224,977.825,1927.755)" >
+				<tspan x="66.8" y="14.5" class="t5" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  •  ?  • ?
+</tspan>
+			</text>
+			<path id="Circle copy 4" class="s4" d="m1037.4 1864c0-13.6 10.8-24.7 24-24.7 13.3 0 24 11.1 24 24.7 0 13.6-10.7 24.7-24 24.7-13.2 0-24-11.1-24-24.7z"/>
+			<text id="Chance copy" style="transform: matrix(-2.219,2.172,-2.163,-2.23,2283.395,1314.36)" >
+				<tspan x="50.2" y="22.8" class="t6" dx="0" >C</tspan><tspan  y="22.8" class="t6" dx="0 2 2 2 2 2 2 2 2 2 2 2 2 2 2" >OMMUNITY CHEST
+</tspan>
+			</text>
+		</g>
+	</g>
+	<g id="top">
+		<g id="property colors top">
+			<path id="green1 copy 2" class="s7" d="m1775.9 629.4h975.6v172.7h-975.6z"/>
+			<path id="green2 copy 2" class="s7" d="m822.6 629.4h475v172.7h-475z"/>
+			<path id="blue1 copy 2" class="s8" d="m3256.8 629.4h958.8v172.7h-958.8z"/>
+			<path id="blue2 copy 2" class="s8" d="m4706 629.4h475v172.7h-475z"/>
+		</g>
+		<g id="black borders copy">
+			<path id="top border" class="s9" d="m6000 793.3v26.7h-6060v-26.7z"/>
+			<path id="leftbar1 copy" class="s9" d="m4723.7 802.1h-19.1v-861.7h19.1z"/>
+			<path id="leftbar2  copy" class="s9" d="m4237.1 802.1h-19.2v-861.7h19.2z"/>
+			<path id="leftbar3  copy" class="s9" d="m3750.4 802.1h-19.2v-861.7h19.2z"/>
+			<path id="leftbar4  copy" class="s9" d="m3257.1 802.1h-19.2v-861.7h19.2z"/>
+			<path id="leftbar5  copy" class="s9" d="m2770.4 802.1h-19.1l-0.1-861.7h19.2z"/>
+			<path id="lefttbar6  copy" class="s9" d="m2283.8 802.1h-19.2v-861.7h19.1z"/>
+			<path id="lefttbar7 copy" class="s9" d="m1790.4 802.1h-19.1l-0.1-861.7h19.2z"/>
+			<path id="leftbar8  copy" class="s9" d="m1317.1 802.1h-19.2v-861.7h19.2z"/>
+			<path id="leftbot1 copy" class="s9" d="m4719.8 629.3v-19.2h476v19.2z"/>
+			<path id="leftbot2 copy 2" class="s9" d="m3247.5 629.3v-19.2h980v19.2z"/>
+			<path id="leftbot3 copy 2" class="s9" d="m1780.8 629.3v-19.2h980v19.2z"/>
+			<path id="leftbot4 copy" class="s9" d="m820.8 629.3v-19.2h481.3v19.2z"/>
+		</g>
+	</g>
+	<g id="left">
+		<g id="Jail">
+			<text id="VISITING" style="transform: matrix(1.716,0,0,1.698,229.597,5812.551)" >
+				<tspan x="109.1" y="25.3" class="t10" dx="0" >V</tspan><tspan  y="25.3" class="t10" dx="0 -2 -2 -2 -2 -2 -2 -2" >ISITING
+</tspan>
+			</text>
+			<text id="JUST" style="transform: matrix(0,1.941,-1.962,0,187.897,5308.852)" >
+				<tspan x="85.6" y="25.3" class="t10" dx="0" >J</tspan><tspan  y="25.3" class="t10" dx="0 -2 -2 -2" >UST
+</tspan>
+			</text>
+			<path id="Bottom Bar" class="s4" d="m237.2 5195.4v592.8h-19.8v-592.8z"/>
+			<path id="Side Bar" class="s4" d="m816.6 5788.3h-599.2v-19.5h599.2z"/>
+			<path id="Square" class="s11" d="m811.6 5197.4v570.4h-574.4v-570.4z"/>
+			<path id="Bars Window" class="s12" d="m501.9 5231.1l286.8 214.6-216.9 283.9-286.9-214.7z"/>
+			<path id="Bar 3" class="s13" d="m745.8 5393.9l2.5 2-239.3 306-2.5-2z"/>
+			<path id="Bar 2" class="s13" d="m648.2 5323.7l2.5 2-239.3 306-2.5-2z"/>
+			<path id="Bar 1" class="s13" d="m556.6 5253.5l2.5 2-239.3 306-2.5-2z"/>
+			<text id="IN" style="transform: matrix(1.378,1.022,-1.012,1.364,695.605,5264.803)" >
+				<tspan x=".7" y="25.3" class="t10" dx="0" >I</tspan><tspan  y="25.3" class="t10" dx="0 -2" >N
+</tspan>
+			</text>
+			<text id="JAIL" style="transform: matrix(1.378,1.022,-1.012,1.364,280.132,5569.916)" >
+				<tspan x="56.9" y="25.3" class="t10" dx="0" >J</tspan><tspan  y="25.3" class="t10" dx="0 -2 -2 -2" >AIL
+</tspan>
+			</text>
+		</g>
+		<g id="Free Parking">
+			<text id="PARKING" style="transform: matrix(-2.281,2.206,-2.23,-2.257,465.409,-14.505)" >
+				<tspan x="37.8" y="25.3" class="t14" dx="0" >P</tspan><tspan  y="25.3" class="t14" dx="0 -2 -2 -2 -2 -2 -2" >ARKING
+</tspan>
+			</text>
+			<text id="FREE" style="transform: matrix(-2.295,2.192,-2.215,-2.271,885.817,418.412)" >
+				<tspan x="66.3" y="25.3" class="t14" dx="0" >F</tspan><tspan  y="25.3" class="t14" dx="0 -2 -2 -2" >REE
+</tspan>
+			</text>
+			<path id="Right Wheel" class="s15" d="m236.2 403.4l-10.5 9.8c-3.2 3.1-5 6.3-8 3.5l-40.4-37.8c-3.1-2.8-2.9-7.5 0.3-10.6l10.5-9.8c3.2-3 8.3-3.2 11.3-0.3l40.4 37.7c3.1 2.8-0.4 4.5-3.6 7.5z"/>
+			<path id="Left Wheel" class="s15" d="m405.1 242.2l-10.4 9.8c-3.3 3-5 6.2-8.1 3.4l-40.4-37.8c-3-2.8-2.9-7.5 0.4-10.5l10.5-9.8c3.2-3 8.2-3.2 11.2-0.4l40.5 37.8c3 2.8-0.4 4.5-3.7 7.5z"/>
+			<path id="Car" class="s16" d="m546.8 376.6c0.6 0.2 95.5 51.3-19.6 159.7-99.9 94.1-166.8 20-164.6 21 2.1 1-69.7-114.9-69.7-114.9l-61.7 36.2-31.7-28.6 247.6-231.9 31.2 29.2-41.6 59.2c0 0 109.1 69.8 110.1 70.1z"/>
+			<path id="Window" class="s15" d="m532.1 436.5l-105 98.3-39.4-36.8 105-98.3z"/>
+			<path id="Tyre" class="s17" d="m408.3 422.8c-18.8 17.7-48.7 18.3-66.8 1.4-18.1-16.9-17.6-45 1.3-62.6 18.8-17.6 48.8-18.2 66.9-1.3 18.1 16.9 17.5 44.9-1.4 62.5z"/>
+			<path id="Small Tyre" class="s18" d="m383.8 402.4c-5.3 5-13.9 5-19.1 0-5.3-4.9-5.3-12.9-0.1-17.8 5.3-5 13.9-5 19.2 0 5.2 4.9 5.2 12.9 0 17.8z"/>
+		</g>
+		<g id="property colors left">
+			<path id="green1 copy" class="s19" d="m803.3 815.5v975.6h-161.7v-975.6z"/>
+			<path id="green2 copy" class="s19" d="m803.3 2282.2v475.1h-161.7v-475.1z"/>
+			<path id="blue1 copy" class="s20" d="m803.3 3265.1v958.8h-161.7v-958.8z"/>
+			<path id="blue2 copy" class="s20" d="m803.3 4715.6v475h-161.7v-475z"/>
+		</g>
+		<g id="black borders">
+			<path id="left border" class="s9" d="m824.2 6060h-20.9v-6060h20.9z"/>
+			<path id="leftbar1" class="s9" d="m817.1 1291.7v19.1h-861.7v-19.1z"/>
+			<path id="leftbar2 " class="s9" d="m817.1 1778.3v19.2h-861.7v-19.2z"/>
+			<path id="leftbar3 " class="s9" d="m817.1 2265v19.2h-861.7v-19.2z"/>
+			<path id="leftbar4 " class="s9" d="m817.1 2758.3v19.2h-861.7v-19.2z"/>
+			<path id="leftbar5 " class="s9" d="m817.1 3245v19.2h-861.7v-19.2z"/>
+			<path id="lefttbar6 " class="s9" d="m817.1 3731.7v19.1h-861.7v-19.1z"/>
+			<path id="lefttbar7" class="s9" d="m817.1 4225v19.2h-861.7v-19.2z"/>
+			<path id="leftbar8 " class="s9" d="m817.1 4698.3v19.2h-861.7v-19.2z"/>
+			<path id="leftbot1" class="s9" d="m644.3 1787.9h-19.2v-972.3h19.2z"/>
+			<path id="leftbot2 copy" class="s9" d="m644.3 2767.9h-19.2v-481.2h19.2z"/>
+			<path id="leftbot3 copy" class="s9" d="m644.3 4234.6h-19.2v-980h19.2z"/>
+			<path id="leftbot4" class="s9" d="m644.3 5194.6h-19.2v-481.3h19.2z"/>
+		</g>
+	</g>
+	<g id="bottom">
+		<path id="bottomborder" class="s9" d="m6058.5 5185v19.2h-6060v-19.2z"/>
+		<g id="property colors bottom">
+			<path id="green1 copy 3" class="s21" d="m2286.5 5204.9h473.7v161.7h-473.7z"/>
+			<path id="green2 copy 3" class="s21" d="m824.7 5204.9h968.6v161.7h-968.6z"/>
+			<path id="blue1 copy 3" class="s22" d="m3746.5 5204.9h471.8v161.7h-471.8z"/>
+			<path id="blue2 copy 3" class="s22" d="m4695.3 5204.9h491v181.7h-491z"/>
+		</g>
+		<g id="black borders bottom">
+			<path id="leftbar1 copy 2" class="s9" d="m1296.9 5194.6h19.1v861.6h-19.1z"/>
+			<path id="leftbar2  copy 2" class="s9" d="m1783.5 5194.6h19.2v861.6h-19.2z"/>
+			<path id="leftbar3  copy 2" class="s9" d="m2270.2 5194.6h19.2v861.6h-19.2z"/>
+			<path id="leftbar4  copy 2" class="s9" d="m2763.5 5194.6h19.2v861.6h-19.2z"/>
+			<path id="leftbar5  copy 2" class="s9" d="m3250.2 5194.6h19.2v861.6h-19.2z"/>
+			<path id="lefttbar6  copy 2" class="s9" d="m3736.9 5194.6h19.1v861.6h-19.1z"/>
+			<path id="lefttbar7 copy 2" class="s9" d="m4216.9 5194.6h19.1v861.6h-19.1z"/>
+			<path id="leftbar8  copy 2" class="s9" d="m4676.9 5194.6h19.1v861.6h-19.1z"/>
+			<path id="leftbot1 copy 2" class="s9" d="m1790.4 5367.4v19.2h-969.6v-19.2z"/>
+			<path id="leftbot2 copy 3" class="s9" d="m2773.1 5367.4v19.2h-489.3v-19.2z"/>
+			<path id="leftbot3 copy 3" class="s9" d="m4227.5 5367.4v19.2h-481v-19.2z"/>
+			<path id="leftbot4 copy 2" class="s9" d="m5182.9 5367.4v19.2h-496.4v-19.2z"/>
+		</g>
+	</g>
+	<g id="right">
+		<g id="GO">
+			<g id="GO WORDS">
+				<path id="Shape 3" class="s23" d="m5543.7 5570.5l-108.6 106.2 103 102.6 75-75.3-30.6-30.5-38.6 38.8-27.8-27.8 68.6-68.8 97.4 97.1-132.9 133.3-183.7-183 134-134.5"/>
+				<path id="Shape 4" class="s23" d="m5639.3 5389.6l182.7 182.7-117.5 117.5-182.6-182.7"/>
+				<path id="Shape 5" class="s24" d="m5649.4 5460.8l105.5 105.6-56.3 56.3-105.6-105.6z"/>
+			</g>
+			<path id="Shape 2" class="s23" d="m5923.5 5911.2l40.4 33.1h-129.1l-22.5-20.4h-490.2v27.8l-86.9-40.5 86.9-40.6v27.8h490.2l22.5-20.5h129.1z"/>
+			<text id="COLLECT  $200 SALARY  AS YOU P" style="transform: matrix(2.28,-2.208,2.231,2.256,5102.969,5553.293)" >
+				<tspan x="55.3" y="15.8" class="t25" dx="0" >C</tspan><tspan  y="15.8" class="t25" dx="0 -1 -1 -1 -1 -1 -1 -1" >OLLECT 
+</tspan>
+				<tspan x="34.9" y="41" class="t25" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >$200 SALARY 
+</tspan>
+				<tspan x="36.8" y="66.3" class="t25" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >AS YOU PASS
+</tspan>
+			</text>
+		</g>
+		<g id="Go To Jail">
+			<text id="JAIL " style="transform: matrix(-2.246,-2.241,2.265,-2.223,5962.846,525.967)" >
+				<tspan x="78.3" y="25.3" class="t26" dx="0" >J</tspan><tspan  y="25.3" class="t26" dx="0 -2 -2 -2" >AIL
+</tspan>
+			</text>
+			<text id="GO TO" style="transform: matrix(-2.22,-2.267,2.291,-2.196,5573.77,895.073)" >
+				<tspan x="54.7" y="25.3" class="t14" dx="0" >G</tspan><tspan  y="25.3" class="t14" dx="0 -2 -2 -2 -2" >O TO
+</tspan>
+			</text>
+			<g id="jailman">
+				<path id="faceoutline" class="s27" d="m5451.9 543.6c-20.6-38.5 23.7-12.7 23.7-12.7 0 0 5.5-8.2 6-12.5 0.5-4.4-2-30.9-6.9-34.2-5-3.2-15.7-38.7 7.3-23.5 23 15.2 39.3 4.8 39.3 4.8l8.6 17.5-2-20.3 17.9-30.6c14.4-59.1 52-3.4 52-3.4l19.1 6.7c0 0-0.1-31.9 16.6-16.1 16.8 15.8 16.2 111.2 16.2 111.2l-10.3 19.1c31 47.8-49 70.4-49 70.4l-16.9 25.5c0 0-101-63.4-121.6-101.9z"/>
+				<path id="hat" class="s28" d="m5560.2 649.2c0 0-228.3-61.9-117.9-75.6l16.2 9.9-12.9-16.2 8.6-12.9"/>
+				<path id="inner ear" class="s9" d="m5602.1 538.6c1.9 0.9-18 22.1-18 22.1l-2-18.7"/>
+				<path id="outerear" class="s9" d="m5617.1 523.9l1.4 16.9-18.5 31.7-16.5 8.5-16.5-16c3.6 12.2 8.3 18.4 13.4 20.6 15.6 6.5 35.4-25.3 42.4-43.6 9.3-24.2-15.7-27.3-15.7-27.3"/>
+				<path id="Shape 45" class="s9" d="m5611.2 440.1c13.5 11.9 20.5 80.4 20.5 80.4 0 0-6.5-91.1-27.1-84.4-20.7 6.6-60.8 4.8-60.8 4.8 71-6.2 67.4-0.8 67.4-0.8z"/>
+				<path id="whitle" class="s27" d="m5532.6 440.5l-8.9-8.9c0 0-36.6-13.9-11.7-31.4 24.9-17.5 24.6 9.7 25.1 11.8 0.4 2.1-6.3 6.2-6 11.2 0.4 5 1.5 17.3 1.5 17.3z"/>
+				<path id="Shape 43" class="s9" d="m5521.5 463l9.4-2.9 7.5 24.4-9.4 2.9z"/>
+				<path id="Shape 42" class="s29" d="m5545.8 565.3l-18 1.6 1.3-18.6 21.3-0.2"/>
+				<path id="Shape 39" class="s9" d="m5528.6 520.9l-7.9 5.8-19-26.1 7.9-5.8z"/>
+				<path id="Shape 40" class="s9" d="m5501.5 495.1l8.3 5.3-16.5 26.2-8.3-5.3z"/>
+				<path id="hand" class="s27" d="m5495.3 330l7.4 36.9c0 0-48.5 19.8-55.3 42.5 0 0-98.7 0.8-132.5 19.8 0 0-22.7-10.3 52.7-27.8 75.3-17.4 11.2-4.4 11.2-4.4 0 0-31-19.3-11.6-25.4l26.6 15.3 7.6-4.4c0 0-36.4-21.8-29.9-31.6 6.5-9.9 31.5 11.4 42.2 18.4l5.7-6.8c0 0-34.8-24.2-31.5-29.2 3.2-4.9 11.4-27.9 18.5-27.9 7.1 0-2.7 18.3 5.5 23.8 8.2 5.4 21.4 14.1 21.4 14.1 0 0 13.8-22.7 62-13.3z"/>
+				<path id="Shape 36" class="s27" d="m5496.9 324c7-21.3 32.2-5.8 32.2-5.8 0 0 10 42-0.9 54.9-10.9 12.9-22.2-4-22.2-4"/>
+				<path id="Shape 37" class="s28" d="m5536.2 370.7l-6.7-85.5 83.4-9.8 194.3 106.8-52.8 82.3c0 0-28.9 28.2-53.9 15l-9.2-5.2 0.3 23.8c0 0-5 20.3-34.9 28.4 0 0 2.1-92.4-23.9-113 0 0-14.9 2-18.7 13l-15.9-8-5.9-36.9v-5.1"/>
+				<path id="Shape 38" class="s28" d="m5595.4 374.4l84.9-12.2 17.8 30.4-13.4 13.9 10 71.7c0 0 0.7 56.2-36.8 51.6 0 0-6.7-98.2-25.7-111.6z"/>
+			</g>
+		</g>
+		<g id="property colors">
+			<path id="green1" class="s30" d="m5356.6 815.5v975.6h-161.7v-975.6z"/>
+			<path id="green2" class="s30" d="m5356.6 2282.2v475.1h-161.7v-475.1z"/>
+			<path id="blue1" class="s31" d="m5356.6 3748.9v475h-161.7v-475z"/>
+			<path id="blue2" class="s31" d="m5356.6 4715.6v475h-161.7v-475z"/>
+		</g>
+		<g id="black borders">
+			<path id="left border" class="s9" d="m802.3-46.2h22.2v6060h-22.2z"/>
+			<path id="right border" class="s9" d="m5175.8 0h20.9v6060h-20.9z"/>
+			<path id="rightbar1" class="s9" d="m6044.6 1291.7v19.1h-861.7v-19.1z"/>
+			<path id="rightbar2" class="s9" d="m6044.6 1778.3v19.2h-861.7v-19.2z"/>
+			<path id="rightbar3" class="s9" d="m6044.6 2265v19.2h-861.7v-19.2z"/>
+			<path id="rightbar4" class="s9" d="m6044.6 2758.3v19.2h-861.7v-19.2z"/>
+			<path id="rightbar5" class="s9" d="m6044.6 3245v19.2h-861.7v-19.2z"/>
+			<path id="rightbar6" class="s9" d="m6044.6 3731.7v19.1h-861.7v-19.1z"/>
+			<path id="rightbar7" class="s9" d="m6044.6 4225v19.2h-861.7v-19.2z"/>
+			<path id="rightbar8" class="s9" d="m6044.6 4698.3v19.2h-861.7v-19.2z"/>
+			<path id="rightbot1" class="s9" d="m5355.7 815.6h19.2v972.3h-19.2z"/>
+			<path id="rightbot2" class="s9" d="m5355.7 2286.7h19.2v481.2h-19.2z"/>
+			<path id="rightbot3" class="s9" d="m5355.7 3753.3h19.2v481.3h-19.2z"/>
+			<path id="rightbot4" class="s9" d="m5355.7 4713.3h19.2v481.3h-19.2z"/>
+		</g>
+	</g>
+	<g id="property titles">
+		<text id="mediterranean  avenue" style="transform: matrix(3.173,-0.002,.036,3.172,4618.763,5515.798)" >
+			<tspan x="15.7" y="15.8" class="t32" dx="0" >M</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >EDITERRANEAN 
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="baltic  avenue" style="transform: matrix(3.173,-0.002,.036,3.172,3661.43,5515.798)" >
+			<tspan x="66.8" y="15.8" class="t32" dx="0" >B</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >ALTIC 
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="oriental  avenue" style="transform: matrix(3.173,-0.002,.036,3.172,2205.43,5515.798)" >
+			<tspan x="51.8" y="15.8" class="t32" dx="0" >O</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1" >RIENTAL 
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="vermont avenue" style="transform: matrix(3.173,-0.002,.036,3.172,1233.43,5515.798)" >
+			<tspan x="50.3" y="15.8" class="t32" dx="0" >V</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >ERMONT
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="connecticut avenue" style="transform: matrix(3.173,-0.002,.036,3.172,738.763,5515.798)" >
+			<tspan x="29.1" y="15.8" class="t32" dx="0" >C</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >ONNECTICUT
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="st. charles place" style="transform: matrix(.002,3.173,-3.172,.036,494.863,4641.821)" >
+			<tspan x="37.9" y="15.8" class="t32" dx="0" >S</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >T. CHARLES
+</tspan>
+			<tspan x="68.5" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1" >PLACE
+</tspan>
+		</text>
+		<text id="states avenue" style="transform: matrix(.002,3.173,-3.172,.036,494.863,3675.154)" >
+			<tspan x="64.1" y="15.8" class="t32" dx="0" >S</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1" >TATES
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="virginia avenue" style="transform: matrix(.002,3.173,-3.172,.036,494.863,3188.487)" >
+			<tspan x="56.6" y="15.8" class="t32" dx="0" >V</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1" >IRGINIA
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="st. james place" style="transform: matrix(.002,3.173,-3.172,.036,494.863,2201.821)" >
+			<tspan x="53.1" y="15.8" class="t32" dx="0" >S</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1" >T. JAMES
+</tspan>
+			<tspan x="68.5" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1" >PLACE
+</tspan>
+		</text>
+		<text id="tennessee avenue" style="transform: matrix(.002,3.173,-3.172,.036,494.863,1228.487)" >
+			<tspan x="42.2" y="15.8" class="t32" dx="0" >T</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1" >ENNESSEE
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="new york avenue" style="transform: matrix(.002,3.173,-3.172,.036,494.863,741.821)" >
+			<tspan x="47.1" y="15.8" class="t32" dx="0" >N</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1" >EW YORK
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="kentucky avenue" style="transform: matrix(-3.173,.002,-0.036,-3.172,1375.506,491.254)" >
+			<tspan x="47.9" y="15.8" class="t32" dx="0" >K</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1" >ENTUCKY
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="indiana avenue" style="transform: matrix(-3.173,.002,-0.036,-3.172,2342.173,491.254)" >
+			<tspan x="58.6" y="15.8" class="t32" dx="0" >I</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >NDIANA
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="illinois avenue" style="transform: matrix(-3.173,.002,-0.036,-3.172,2835.506,491.254)" >
+			<tspan x="59.7" y="15.8" class="t32" dx="0" >I</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1" >LLINOIS
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="atlantic  avenue" style="transform: matrix(-3.173,.002,-0.036,-3.172,3815.506,491.254)" >
+			<tspan x="52.8" y="15.8" class="t32" dx="0" >A</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1" >TLANTIC 
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="ventnor avenue" style="transform: matrix(-3.173,.002,-0.036,-3.172,4295.506,491.254)" >
+			<tspan x="51.5" y="15.8" class="t32" dx="0" >V</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >ENTNOR
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="marvin gardens" style="transform: matrix(-3.173,.002,-0.036,-3.172,5268.839,491.254)" >
+			<tspan x="61.3" y="15.8" class="t32" dx="0" >M</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1" >ARVIN
+</tspan>
+			<tspan x="51.2" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1" >GARDENS
+</tspan>
+		</text>
+		<text id="pacific  avenue" style="transform: matrix(-0.002,-3.173,3.172,-0.036,5493.757,1373.245)" >
+			<tspan x="63.4" y="15.8" class="t32" dx="0" >P</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1" >ACIFIC 
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="north carolina  avenue" style="transform: matrix(-0.002,-3.173,3.172,-0.036,5493.757,1859.912)" >
+			<tspan x="64.9" y="15.8" class="t32" dx="0" >N</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1" >ORTH
+</tspan>
+			<tspan x="49.5" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1" >CAROLINA 
+</tspan>
+			<tspan x="59.9" y="57.9" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="pennsylavania avenue" style="transform: matrix(-0.002,-3.173,3.172,-0.036,5493.757,2839.912)" >
+			<tspan x="27.6" y="15.8" class="t32" dx="0" >P</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >ENNSYLVANIA
+</tspan>
+			<tspan x="59.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AVENUE
+</tspan>
+		</text>
+		<text id="park place" style="transform: matrix(-0.002,-3.173,3.172,-0.036,5493.757,4306.579)" >
+			<tspan x="40.9" y="15.8" class="t32" dx="0" >P</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1" >ARK PLACE
+</tspan>
+		</text>
+		<text id="boardwalk" style="transform: matrix(-0.002,-3.173,3.172,-0.036,5493.757,5275.912)" >
+			<tspan x="36.8" y="15.8" class="t32" dx="0" >B</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1" >OARDWALK
+</tspan>
+		</text>
+	</g>
+	<g id="chance/comm chest">
+		<g id="community chest 1">
+			<text id="community chest" style="transform: matrix(3.173,-0.002,.036,3.172,4138.763,5302.464)" >
+				<tspan x="39" y="15.8" class="t32" dx="0" >C</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1" >OMMUNITY
+</tspan>
+				<tspan x="66.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1" >CHEST
+</tspan>
+			</text>
+			<text id="follow instructions  on top ca" style="transform: matrix(3.173,-0.002,.036,3.172,4138.763,5782.464)" >
+				<tspan x="58.2" y="15.8" class="t32" dx="0" >F</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1" >OLLOW
+</tspan>
+				<tspan x="27.2" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >INSTRUCTIONS 
+</tspan>
+				<tspan x="31.6" y="57.9" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >ON TOP CARD
+</tspan>
+			</text>
+		</g>
+		<g id="community chest 2">
+			<text id="community chest copy" style="transform: matrix(.002,3.173,-3.172,.036,718.353,1713.486)" >
+				<tspan x="39" y="15.8" class="t32" dx="0" >C</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1" >OMMUNITY
+</tspan>
+				<tspan x="66.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1" >CHEST
+</tspan>
+			</text>
+			<text id="follow instructions  on top ca copy" style="transform: matrix(.002,3.173,-3.172,.036,245.02,1713.486)" >
+				<tspan x="58.2" y="15.8" class="t32" dx="0" >F</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1" >OLLOW
+</tspan>
+				<tspan x="27.2" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >INSTRUCTIONS 
+</tspan>
+				<tspan x="31.6" y="57.9" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >ON TOP CARD
+</tspan>
+			</text>
+		</g>
+		<g id="community chest 3">
+			<text id="community chest copy 2" style="transform: matrix(-0.002,-3.173,3.172,-0.036,5284.924,2353.345)" >
+				<tspan x="39" y="15.8" class="t32" dx="0" >C</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1" >OMMUNITY
+</tspan>
+				<tspan x="66.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1" >CHEST
+</tspan>
+			</text>
+			<text id="follow instructions  on top ca copy 2" style="transform: matrix(-0.002,-3.173,3.172,-0.036,5744.924,2353.345)" >
+				<tspan x="58.2" y="15.8" class="t32" dx="0" >F</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1" >OLLOW
+</tspan>
+				<tspan x="27.2" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >INSTRUCTIONS 
+</tspan>
+				<tspan x="31.6" y="57.9" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >ON TOP CARD
+</tspan>
+			</text>
+		</g>
+		<path id="Shape 8 copy 2" class="s33" d="m2066.7 5779.5l-7.7 30.8c0 0-83.3 17.6-88.6-57.8-5.3-75.3 132.5-128.5 156-188 23.6-59.5-40.5-113.6-77.2-111-36.6 2.7-129.5 59.2-59.3 119.3l-42.3 31.2c0 0-100.3-151.3 82.6-193 193.7-5.1 170.2 189 67 239.6 0 0-157 124.8-24.6 118.7"/>
+		<path id="Shape 9 copy 2" class="s33" d="m2045.6 5867.6c25.9-0.4 47.2 20.2 47.7 46.1 0.4 25.9-20.3 47.2-46.2 47.7-25.9 0.4-47.2-20.3-47.6-46.2-0.4-25.9 20.2-47.2 46.1-47.6z"/>
+		<text id="chance" style="transform: matrix(3.173,-0.002,.036,3.172,1725.43,5309.131)" >
+			<tspan x="58.2" y="15.8" class="t32" dx="0" >C</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1" >HANCE
+</tspan>
+		</text>
+		<g id="chance2">
+			<text id="chance2" style="transform: matrix(-3.173,.002,-0.036,-3.172,1875.506,716.59)" >
+				<tspan x="58.2" y="15.8" class="t32" dx="0" >C</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1" >HANCE
+</tspan>
+			</text>
+			<path id="Shape 8" class="s34" d="m1535.8 233l7.7-30.8c0 0 83.3-17.6 88.6 57.8 5.3 75.3-132.5 128.5-156 188-23.6 59.5 40.5 113.6 77.2 111 36.6-2.7 129.5-59.2 59.3-119.3l42.3-31.2c0 0 100.3 151.3-82.6 193-193.7 5.1-170.2-189-67-239.6 0 0 157-124.8 24.6-118.7"/>
+			<path id="Shape 9" class="s34" d="m1556.9 144.9c-25.9 0.4-47.2-20.2-47.7-46.1-0.4-25.9 20.3-47.2 46.2-47.7 25.9-0.4 47.2 20.3 47.6 46.2 0.4 25.9-20.2 47.2-46.1 47.6z"/>
+		</g>
+		<g id="chance3">
+			<path id="Shape 8 copy" class="s23" d="m5774.5 3480.8l30.8 7.7c0 0 17.6 83.3-57.8 88.6-75.3 5.3-128.5-132.5-188-156-59.5-23.6-113.6 40.5-111 77.2 2.7 36.6 59.2 129.5 119.3 59.3l31.2 42.3c0 0-151.3 100.3-193-82.6-5.1-193.7 189-170.2 239.6-67 0 0 124.8 157 118.7 24.6"/>
+			<path id="Shape 9 copy" class="s23" d="m5862.6 3501.9c-0.4-25.9 20.2-47.2 46.1-47.7 25.9-0.4 47.2 20.3 47.7 46.2 0.4 25.9-20.3 47.2-46.2 47.6-25.9 0.4-47.2-20.2-47.6-46.1z"/>
+			<text id="chance3" style="transform: matrix(-0.002,-3.173,3.172,-0.036,5285.007,3822.974)" >
+				<tspan x="58.2" y="15.8" class="t32" dx="0" >C</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1" >HANCE
+</tspan>
+			</text>
+		</g>
+	</g>
+	<g id="utilities">
+		<text id="waterworks" style="transform: matrix(-3.173,.002,-0.036,-3.172,4768.839,716.59)" >
+			<tspan x="65.4" y="15.8" class="t32" dx="0" >W</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1" >ATER 
+</tspan>
+			<tspan x="62.4" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1" >WORKS
+</tspan>
+		</text>
+		<text id="Electric company " style="transform: matrix(.002,3.173,-3.172,.036,718.353,4153.486)" >
+			<tspan x="53" y="15.8" class="t32" dx="0" >E</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1" >LECTRIC
+</tspan>
+			<tspan x="51.3" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1" >COMPANY
+</tspan>
+		</text>
+	</g>
+	<g id="railroads">
+		<text id="short line" style="transform: matrix(-0.002,-3.173,3.172,-0.036,5285.007,3329.641)" >
+			<tspan x="42.1" y="15.8" class="t32" dx="0" >S</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1" >HORT LINE
+</tspan>
+		</text>
+		<text id="reading railroad" style="transform: matrix(3.173,-0.002,.036,3.172,2692.096,5302.464)" >
+			<tspan x="54.7" y="15.8" class="t32" dx="0" >R</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >EADING
+</tspan>
+			<tspan x="49.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1" >RAILROAD
+</tspan>
+		</text>
+		<text id="pennsylvania railroad  " style="transform: matrix(.002,3.173,-3.172,.036,718.353,2693.486)" >
+			<tspan x="27.6" y="15.8" class="t32" dx="0" >P</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1" >ENNSYLVANIA
+</tspan>
+			<tspan x="49.9" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1" >RAILROAD
+</tspan>
+		</text>
+		<text id="b and o" style="transform: matrix(-3.173,.002,-0.036,-3.172,3322.173,716.59)" >
+			<tspan x="71.5" y="15.8" class="t32" dx="0" >B</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1" > &amp; O
+</tspan>
+			<tspan x="47.7" y="36.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1 -1 -1 -1" > RAILROAD
+</tspan>
+		</text>
+	</g>
+	<g id="taxes">
+		<text id="PAY 10% OR $200" style="transform: matrix(3.173,-0.002,.036,3.172,3172.096,5715.798)" >
+			<tspan x="57.9" y="15.8" class="t32" dx="0" >P</tspan><tspan  y="15.8" class="t32" dx="0 -1 -1 -1 -1 -1 -1" >AY 10%
+</tspan>
+			<tspan x="84.6" y="36.8" class="t32" dx="0 -1 -1" >OR
+</tspan>
+			<tspan x="74.6" y="57.9" class="t32" dx="0 -1 -1 -1 -1" >$200
+</tspan>
+		</text>
+		<text id="income Tax " style="transform: matrix(4.482,-0.003,.051,4.48,3048.08,5332.856)" >
+			<tspan x="55" y="15.8" class="t35" dx="0" >I</tspan><tspan  y="15.8" class="t35" dx="0 1 1 1 1" >NCOME</tspan><tspan  y="15.8" class="t36" dx="0" >
+</tspan>
+			<tspan x="78.6" y="36.7" class="t32" dx="0 1 1 1" >TAX
+</tspan>
+		</text>
+		<text id="luxury tax" style="transform: matrix(-0.003,-4.482,4.48,-0.051,5319.382,4918.782)" >
+			<tspan x="56.3" y="15.8" class="t37" dx="0" >L</tspan><tspan  y="15.8" class="t37" dx="0 1 1 1 1 1" >UXURY
+</tspan>
+			<tspan x="78.6" y="39.9" class="t37" dx="0 1 1 1" >TAX
+</tspan>
+		</text>
+	</g>
+	<g id="prices">
+		<text id="PRICE $60" style="transform: matrix(3.151,0,0,1.881,4927.135,5961.631)" >
+			<tspan x="-57.8" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1" >$60
+</tspan>
+		</text>
+		<text id="PRICE $60 copy" style="transform: matrix(3.151,0,0,1.881,3967.135,5961.631)" >
+			<tspan x="-57.8" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1" >$60
+</tspan>
+		</text>
+		<text id="PRICE $200" style="transform: matrix(3.151,0,0,1.881,2993.801,5961.631)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$200
+</tspan>
+		</text>
+		<text id="PRICE $100" style="transform: matrix(3.151,0,0,1.881,2520.468,5961.631)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$100
+</tspan>
+		</text>
+		<text id="PRICE $100 copy" style="transform: matrix(3.151,0,0,1.881,1553.801,5961.631)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$100
+</tspan>
+		</text>
+		<text id="PRICE $120" style="transform: matrix(3.151,0,0,1.881,1047.135,5961.631)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$120
+</tspan>
+		</text>
+		<text id="PRICE $140" style="transform: matrix(0,3.151,-1.881,0,34.224,4952.597)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$140
+</tspan>
+		</text>
+		<text id="PRICE $150" style="transform: matrix(0,3.151,-1.881,0,34.224,4479.263)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$150
+</tspan>
+		</text>
+		<text id="PRICE $140 copy" style="transform: matrix(0,3.151,-1.881,0,34.224,3985.93)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$140
+</tspan>
+		</text>
+		<text id="PRICE $160" style="transform: matrix(0,3.151,-1.881,0,34.224,3499.263)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$160
+</tspan>
+		</text>
+		<text id="PRICE $200" style="transform: matrix(0,3.151,-1.881,0,34.224,3019.263)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$200
+</tspan>
+		</text>
+		<text id="PRICE $180" style="transform: matrix(0,3.151,-1.881,0,34.224,2525.93)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$180
+</tspan>
+		</text>
+		<text id="PRICE $180 copy" style="transform: matrix(0,3.151,-1.881,0,34.224,1545.93)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$180
+</tspan>
+		</text>
+		<text id="PRICE $200" style="transform: matrix(0,3.151,-1.881,0,34.224,1052.597)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$200
+</tspan>
+		</text>
+		<text id="PRICE $220" style="transform: matrix(-3.151,0,0,-1.881,1063.258,46.353)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$220
+</tspan>
+		</text>
+		<text id="PRICE $220 copy" style="transform: matrix(-3.151,0,0,-1.881,2043.258,46.353)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$220
+</tspan>
+		</text>
+		<text id="PRICE $240" style="transform: matrix(-3.151,0,0,-1.881,2516.592,46.353)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$240
+</tspan>
+		</text>
+		<text id="PRICE $200" style="transform: matrix(-3.151,0,0,-1.881,3003.258,46.353)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$200
+</tspan>
+		</text>
+		<text id="PRICE $260" style="transform: matrix(-3.151,0,0,-1.881,3496.592,46.353)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$260
+</tspan>
+		</text>
+		<text id="PRICE $260 copy" style="transform: matrix(-3.151,0,0,-1.881,3983.258,46.353)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$260
+</tspan>
+		</text>
+		<text id="PRICE $150" style="transform: matrix(-3.151,0,0,-1.881,4476.592,46.353)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$150
+</tspan>
+		</text>
+		<text id="PRICE $280" style="transform: matrix(-3.151,0,0,-1.881,4949.925,46.353)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$280
+</tspan>
+		</text>
+		<text id="PRICE $300" style="transform: matrix(0,-3.151,1.881,0,5962.835,1042.054)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$300
+</tspan>
+		</text>
+		<text id="PRICE $300 copy" style="transform: matrix(0,-3.151,1.881,0,5962.835,1542.054)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$300
+</tspan>
+		</text>
+		<text id="PRICE $320" style="transform: matrix(0,-3.151,1.881,0,5962.835,2522.054)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$320
+</tspan>
+		</text>
+		<text id="PRICE $200" style="transform: matrix(0,-3.151,1.881,0,5962.835,3008.72)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$200
+</tspan>
+		</text>
+		<text id="PRICE $350" style="transform: matrix(0,-3.151,1.881,0,5962.835,3988.72)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$350
+</tspan>
+		</text>
+		<text id="PAY $75.00" style="transform: matrix(0,-3.151,1.881,0,5962.835,4475.387)" >
+			<tspan x="-68.3" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1" >AY </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1 -1 -1" >$75.00
+</tspan>
+		</text>
+		<text id="PRICE $400" style="transform: matrix(0,-3.151,1.881,0,5962.835,4955.387)" >
+			<tspan x="-66.6" y="0" class="t38" dx="0" >P</tspan><tspan  y="0" class="t38" dx="0 -1 -1 -1 -1" >RICE </tspan><tspan  y="0" class="t39" dx="0 -1 -1 -1 -1" >$400
+</tspan>
+		</text>
+	</g>
+	<g id="train1">
+		<path id="Shape 6" class="s9" d="m3190 5619.9c0 0-77.9 26.6-10.7 162.7l0.5 5.3h-246.7l-34.5 72.3h-76.9l51.7-60.3 0.7-4c0 0-33.9-24.5-33.2-53.7 0.7-29.2 30.5-54.4 39.1-59l1.4-4-25.2-69.7 19.8-32.5h43.2l21.2 32.5-23.9 74.3 147.9 3.3 1.3-11.9c0 0-40.4-48.4 1.3-94.8l119.4 0.6h6z"/>
+		<path id="Shape 7" class="s9" d="m3120.1 5782c24.5 0 44.4 19.9 44.4 44.4 0 24.5-19.9 44.4-44.4 44.4-24.5 0-44.4-19.9-44.4-44.4 0-24.5 19.9-44.4 44.4-44.4z"/>
+		<path id="Shape 7 copy" class="s9" d="m2971.5 5782c24.6 0 44.5 19.9 44.5 44.4 0 24.5-19.9 44.4-44.5 44.4-24.5 0-44.4-19.9-44.4-44.4 0-24.5 19.9-44.4 44.4-44.4z"/>
+	</g>
+	<g id="train2">
+		<path id="Shape 6 copy" class="s9" d="m371 3200.3c0 0-26.5-77.8-162.7-10.6l-5.3 0.4v-246.7l-72.3-34.5v-76.9l60.4 51.7 3.9 0.7c0 0 24.6-33.9 53.8-33.2 29.1 0.7 54.3 30.5 59 39.1l4 1.4 69.6-25.2 32.5 19.9v43.1l-32.5 21.2-74.3-23.9-3.3 147.9 11.9 1.3c0 0 48.5-40.4 94.9 1.4l-0.7 119.3v6z"/>
+		<path id="Shape 7 copy 2" class="s9" d="m209 3130.4c0 24.6-19.9 44.4-44.5 44.4-24.5 0-44.4-19.8-44.4-44.4 0-24.5 19.9-44.4 44.4-44.4 24.6 0 44.5 19.9 44.5 44.4z"/>
+		<path id="Shape 7 copy 3" class="s9" d="m209 2981.9c0 24.5-19.9 44.4-44.5 44.4-24.5 0-44.4-19.9-44.4-44.4 0-24.6 19.9-44.5 44.4-44.5 24.6 0 44.5 19.9 44.5 44.5z"/>
+	</g>
+	<g id="train3">
+		<path id="Shape 6 copy 2" class="s9" d="m2826.2 370.2c0 0 77.8-26.5 10.6-162.7l-0.4-5.3h246.7l34.5-72.3h76.9l-51.7 60.4-0.7 3.9c0 0 33.8 24.6 33.2 53.8-0.7 29.1-30.5 54.3-39.1 59l-1.4 4 25.2 69.6-19.9 32.5h-43.1l-21.2-32.5 23.9-74.3-147.9-3.3-1.3 11.9c0 0 40.4 48.5-1.4 94.9l-119.3-0.7h-6z"/>
+		<path id="Shape 7 copy 4" class="s9" d="m2896.1 208.2c-24.6 0-44.5-19.9-44.5-44.5 0-24.5 19.9-44.4 44.5-44.4 24.5 0 44.4 19.9 44.4 44.4 0 24.6-19.9 44.5-44.4 44.5z"/>
+		<path id="Shape 7 copy 5" class="s9" d="m3044.6 208.2c-24.5 0-44.4-19.9-44.4-44.5 0-24.5 19.9-44.4 44.4-44.4 24.6 0 44.5 19.9 44.5 44.4 0 24.6-19.9 44.5-44.5 44.5z"/>
+	</g>
+	<g id="train4">
+		<path id="Shape 6 copy 3" class="s9" d="m5609.2 2819.5c0 0 26.2 77.9 162.6 11.2l5.3-0.4-0.9 246.7 72.2 34.8-0.3 76.9-60.1-52-4-0.6c0 0-24.7 33.7-53.9 32.9-29.1-0.7-54.2-30.7-58.8-39.3l-4-1.4-69.7 25-32.5-20 0.2-43.1 32.6-21.1 74.2 24.1 3.8-147.9-11.9-1.3c0 0-48.6 40.2-94.9-1.7l1.1-119.4 0.1-5.9z"/>
+		<path id="Shape 7 copy 6" class="s9" d="m5770.9 2890c0.1-24.6 20.1-44.4 44.6-44.3 24.6 0.1 44.4 20.1 44.3 44.6-0.1 24.5-20 44.4-44.6 44.3-24.5-0.1-44.3-20.1-44.3-44.6z"/>
+		<path id="Shape 7 copy 7" class="s9" d="m5770.4 3038.5c0.1-24.5 20.1-44.3 44.6-44.2 24.5 0 44.4 20 44.3 44.5-0.1 24.6-20.1 44.4-44.6 44.3-24.6-0.1-44.4-20-44.3-44.6z"/>
+	</g>
+	<g id="lightbulb">
+		<g id="bulb">
+			<path id="Shape 10" class="s40" d="m217.9 4424.8c0 0 292.2-147.5 285.4 42-6.7 189.4-282.7 36.5-288.2 35.1"/>
+			<path id="Shape 11" class="s40" d="m222.2 4454.8c7.6 0 92-7.5 90.9 14.1-1.1 21.7-95.3 14.1-95.3 14.1 0 0-3.2-28.2 4.4-28.2z"/>
+			<path id="Shape 12" class="s40" d="m316.3 4470c0 0 109.4 60.6 136.4 39 27.1-21.7-133.1-54.2-136.4-39z"/>
+			<path id="Shape 13" class="s40" d="m313.1 4463.5c-26-4.3 133.1-60.6 132-27.1-1 33.6-126.6 31.4-126.6 31.4"/>
+		</g>
+		<g id="base">
+			<path id="Shape 14" class="s9" d="m215.7 4506.1l-5.4 0.3-4.4-86.6 5.5-0.3z"/>
+			<path id="Shape 15" class="s9" d="m207 4506.1l-5.4 0.3-5.4-86.6 5.4-0.3z"/>
+			<path id="Shape 14 copy" class="s9" d="m194 4506.1l-5.4 0.3-4.3-86.6 5.4-0.3z"/>
+			<path id="Shape 15 copy" class="s9" d="m185.4 4506.1l-5.4 0.3-5.4-86.6 5.4-0.3z"/>
+			<path id="Shape 14 copy 2" class="s9" d="m172.4 4506.1l-5.4 0.3-4.3-86.6 5.4-0.3z"/>
+			<path id="Shape 15 copy 2" class="s9" d="m163.7 4506.1l-5.4 0.3-5.4-86.6 5.4-0.3z"/>
+			<path id="Shape 16" class="s9" d="m146.4 4421.3l4.3 82.3-7.5 2.1-27.1-40z"/>
+		</g>
+		<g id="shine">
+			<path id="Shape 17" class="s9" d="m470.8 4355l-4.7-2.7 18.4-32.5 4.7 2.7z"/>
+			<path id="Shape 18" class="s9" d="m411.5 4339.2l-5.2-1.4 9.7-36.8 5.2 1.4z"/>
+			<path id="Shape 19" class="s9" d="m354.1 4341l-5.2 1.5-11.9-42.2 5.2-1.5z"/>
+			<path id="Shape 20" class="s9" d="m285.6 4359.7l-4.5 3-27.1-41.1 4.5-3z"/>
+			<path id="Shape 21" class="s9" d="m236.6 4387.5l-3.9 3.7-29.2-30.3 3.9-3.7z"/>
+			<path id="Shape 22" class="s9" d="m215.4 4553.1l3.9 3.7-31.4 32.5-3.9-3.7z"/>
+			<path id="Shape 23" class="s9" d="m267.1 4580.4l4.3 3.2-25.9 35.7-4.4-3.2z"/>
+			<path id="Shape 24" class="s9" d="m333.7 4586.9l5.3 1.1-7.6 38.9-5.3-1z"/>
+			<path id="Shape 25" class="s9" d="m393.2 4591l5.4-0.6 4.3 38.9-5.4 0.6z"/>
+			<path id="Shape 26" class="s9" d="m466.2 4580.3l4.4-3.1 27.1 37.9-4.4 3.1z"/>
+		</g>
+	</g>
+	<g id="faucet">
+		<path id="Shape 32" class="s9" d="m4484.1 415.6l-0.1 8.4-97.7-0.8 0.1-8.5z"/>
+		<path id="Shape 27" class="s41" d="m4563.7 274.5c0.8-11.8 1.7-25.3 32.8-27 31.2-1.7 32.9 33.7 32.9 33.7l-0.9 57.3c0 0-6.7 32.9-38.7 34.5-32 1.7-30.3-35.3-30.3-35.3 0 0 3.3-51.4 4.2-63.2z"/>
+		<path id="Shape 28" class="s41" d="m4569.6 334.3l-90.2 0.8-0.8 20.2c-31.2-13.4-67.4-0.8-67.4-0.8l10.9-37.1c0 0 0.1 7.8-11.4 10.7-13.2 3.2-39.8 1.6-67.7 1.1-52.3-0.8-54-53.9-54-53.9v-95.2l48.1 0.9c0 0 0 56.4 0 73.3 0 16.8 21.9 22.7 21.9 22.7l61.5-0.8c0-17.7 10.1-13.5 10.1-13.5 0 0 15.1 0 34.5 0 19.4 0 22.8 18.5 22.8 18.5l90.1 1.7c26.1 36.2-8.4 51.4-8.4 51.4z"/>
+		<path id="Shape 29" class="s42" d="m4476.1 356.2c-0.9 7.6-18.6 17.7-18.6 17.7 0 0-21.9 0.8-28.6 0.8-6.8 0-16-17.7-16-17.7 0.8-10.1 64-8.4 63.2-0.8z"/>
+		<path id="Shape 31" class="s41" d="m4495 431.2c-6.7 0-12.2-5.5-12.2-12.2 0-6.8 5.5-12.3 12.2-12.3 6.8 0 12.2 5.5 12.2 12.3 0 6.7-5.4 12.2-12.2 12.2z"/>
+		<path id="Shape 31 copy" class="s41" d="m4381.3 431.2c-6.8 0-12.2-5.5-12.2-12.2 0-6.8 5.4-12.3 12.2-12.3 6.7 0 12.2 5.5 12.2 12.3 0 6.7-5.5 12.2-12.2 12.2z"/>
+		<path id="Shape 30" class="s41" d="m4455.8 375.6c0 51.4-4.2 66.5-16 64.8-11.8-1.7-7.5-63.1-7.5-63.1"/>
+	</g>
+	<g id="community chest">
+		<path id="boxfront" class="s28" d="m4439.9 5618.3v98l-152-44v-85.9z"/>
+		<path id="boxright" class="s28" d="m4444.3 5620.5l110.1-34.1v84.8l-109 46.2"/>
+		<path id="boxmiddle" class="s9" d="m4289 5584.2l84.8-19.8 175.1 22-104.6 33"/>
+		<path id="boxtop" class="s28" d="m4385.9 5557.8l58.4-87 160.8 1.1-57.3 90.3 6.6 22-168.5-17.6"/>
+		<path id="Shape 49" class="s28" d="m4550 5564.4l57.3-91.4 19.8 24.2-58.4 91.4h-7.7z"/>
+		<path id="Shape 56" class="s43" d="m4442.1 5619.4"/>
+		<path id="Shape 55" class="s27" d="m4446.5 5620.5l18.7-4.4 1.1 81.5 72.7-34.1v-72.7h17.6l-1.1 80.4-107.9 48.4"/>
+		<path id="Shape 52" class="s27" d="m4583 5510.4l21 23.1-8.9 15.4-19.8-22"/>
+		<path id="Shape 53" class="s27" d="m4618.3 5504.9l-21-16.5 7.8-15.4 22 19.8"/>
+		<path id="Shape 54" class="s27" d="m4575.3 5582l-5.5 7.7-17.6-25.3 3.3-11.1"/>
+		<path id="Shape 51" class="s27" d="m4382.6 5558.9l60.6-93.7 156.4 7.8-11.1 18.7-138.7-3.3-49.6 76"/>
+		<path id="Shape 57" class="s27" d="m4444.3 5716.3l-13.2-5.5v-53.9l-79.3-17.7v-38.5l36.3 7.7v19.8l44.1 5.5v-16.5l11 1.1"/>
+		<path id="Shape 58" class="s27" d="m4351.8 5640.3l-49.6-7.7 1.1-19.8 43 7.7"/>
+		<path id="Shape 59" class="s27" d="m4304.4 5591.9v72.7l125.6 33-1.1 11-143.2-37.4-1.1-89.2z"/>
+		<path id="Shape 60" class="s27" d="m4355.1 5622.7c9.7 0 17.6 7.9 17.6 17.6 0 9.8-7.9 17.7-17.6 17.7-9.8 0-17.7-7.9-17.7-17.7 0-9.7 7.9-17.6 17.7-17.6z"/>
+		<path id="bag" class="s27" d="m4417.8 5606.2c0 0-2.2-29.7 24.3-50.6 0 0-4.4-29.8 7.7-28.7 12.1 1.1 12.1 4.4 12.1 4.4 0 0 7.7-16.5 16.5-8.8 8.8 7.7 25.3 8.8 16.5 23.1 0 0 34.2 32 35.3 44.1l-82.6 25.3z"/>
+		<path id="Shape 61" class="s27" d="m4441 5560c0 0 45.9 7.1 58.3-7.8"/>
+		<path id="Shape 62" class="s27" d="m4459.7 5531.3l1.1 12.1 16.5-19.8v18.7"/>
+		<path id="Shape 63" class="s27" d="m4458.6 5564.4l-4.4 14.3"/>
+		<path id="bag2" class="s27" d="m4415.6 5606.2l-52.8-11c2.2-27.5 59.4-19.8 59.4-19.8"/>
+	</g>
+	<g id="community chest 2">
+		<path id="boxfront copy" class="s28" d="m396.6 2016.4h-98l44-152h85.9z"/>
+		<path id="boxright copy" class="s28" d="m394.4 2020.8l34.1 110.2h-84.8l-46.2-109.1"/>
+		<path id="boxmiddle copy" class="s9" d="m430.7 1865.6l19.8 84.7-22 175.2-33-104.7"/>
+		<path id="boxtop copy" class="s28" d="m457.1 1962.5l87 58.3-1.1 160.8-90.3-57.2-22 6.6 17.6-168.5"/>
+		<path id="Shape 49 copy" class="s28" d="m450.5 2126.6l91.4 57.2-24.2 19.8-91.4-58.3v-7.7z"/>
+		<path id="Shape 56 copy" class="s43" d="m395.5 2018.6"/>
+		<path id="Shape 55 copy" class="s27" d="m394.4 2023l4.4 18.8-81.5 1.1 34.1 72.6h72.7v17.7l-80.4-1.1-48.4-108"/>
+		<path id="Shape 52 copy" class="s27" d="m504.5 2159.6l-23.1 20.9-15.4-8.8 22-19.8"/>
+		<path id="Shape 53 copy" class="s27" d="m510 2194.8l16.5-20.9 15.4 7.7-19.8 22"/>
+		<path id="Shape 54 copy" class="s27" d="m432.9 2151.9l-7.7-5.5 25.3-17.6 11 3.3"/>
+		<path id="Shape 51 copy" class="s27" d="m456 1959.2l93.7 60.5-7.8 156.4-18.7-11 3.3-138.8-76-49.5"/>
+		<path id="Shape 57 copy" class="s27" d="m298.6 2020.8l5.5-13.2h53.9l17.6-79.3h38.6l-7.7 36.4h-19.8l-5.5 44h16.5l-1.1 11"/>
+		<path id="Shape 58 copy" class="s27" d="m374.5 1928.3l7.8-49.5 19.8 1.1-7.7 42.9"/>
+		<path id="Shape 59 copy" class="s27" d="m423 1881h-72.7l-33 125.5-11-1.1 37.4-143.2 89.2-1.1z"/>
+		<path id="Shape 60 copy" class="s27" d="m392.2 1931.6c0 9.8-7.9 17.6-17.7 17.6-9.7 0-17.6-7.8-17.6-17.6 0-9.7 7.9-17.6 17.6-17.6 9.8 0 17.7 7.9 17.7 17.6z"/>
+		<path id="bag copy" class="s27" d="m408.7 1994.4c0 0 29.7-2.2 50.6 24.2 0 0 29.8-4.4 28.7 7.7-1.1 12.2-4.4 12.2-4.4 12.2 0 0 16.5 7.7 8.8 16.5-7.7 8.8-8.8 25.3-23.1 16.5 0 0-32 34.1-44.1 35.2l-25.3-82.6z"/>
+		<path id="Shape 61 copy" class="s27" d="m454.9 2017.5c0 0-7.1 46 7.7 58.4"/>
+		<path id="Shape 62 copy" class="s27" d="m483.6 2036.3l-12.1 1.1 19.8 16.5h-18.7"/>
+		<path id="Shape 63 copy" class="s27" d="m450.5 2035.1l-14.3-4.4"/>
+		<path id="bag2 copy" class="s27" d="m408.7 1992.2l11-52.9c27.5 2.2 19.8 59.5 19.8 59.5"/>
+	</g>
+	<g id="community chest 3">
+		<path id="boxfront copy 2" class="s28" d="m5604.8 2061.1h98l-44 152h-85.9z"/>
+		<path id="boxright copy 2" class="s28" d="m5607 2056.7l-34.1-110.2h84.8l46.2 109.1"/>
+		<path id="boxmiddle copy 2" class="s9" d="m5570.7 2211.9l-19.9-84.8 22.1-175.1 33 104.7"/>
+		<path id="boxtop copy 2" class="s28" d="m5544.2 2115l-87-58.3 1.1-160.8 90.3 57.2 22.1-6.6-17.7 168.5"/>
+		<path id="Shape 49 copy 2" class="s28" d="m5550.8 1950.9l-91.4-57.2 24.3-19.8 91.4 58.3v7.7z"/>
+		<path id="Shape 56 copy 2" class="s43" d="m5605.9 2058.9"/>
+		<path id="Shape 55 copy 2" class="s27" d="m5607 2054.5l-4.4-18.8 81.5-1.1-34.1-72.6h-72.7v-17.7l80.4 1.1 48.4 108"/>
+		<path id="Shape 52 copy 2" class="s27" d="m5496.9 1917.9l23.1-20.9 15.4 8.8-22 19.8"/>
+		<path id="Shape 53 copy 2" class="s27" d="m5491.4 1882.7l-16.5 20.9-15.5-7.7 19.9-22"/>
+		<path id="Shape 54 copy 2" class="s27" d="m5568.5 1925.6l7.7 5.5-25.4 17.6-11-3.3"/>
+		<path id="Shape 51 copy 2" class="s27" d="m5545.3 2118.3l-93.6-60.5 7.7-156.4 18.8 11-3.3 138.8 75.9 49.5"/>
+		<path id="Shape 57 copy 2" class="s27" d="m5702.8 2056.7l-5.5 13.2h-54l-17.6 79.3h-38.5l7.7-36.4h19.8l5.5-44h-16.5l1.1-11"/>
+		<path id="Shape 58 copy 2" class="s27" d="m5626.8 2149.2l-7.7 49.5-19.8-1.1 7.7-42.9"/>
+		<path id="Shape 59 copy 2" class="s27" d="m5578.4 2196.5h72.7l33-125.5 11 1.1-37.4 143.2-89.2 1.1z"/>
+		<path id="Shape 60 copy 2" class="s27" d="m5609.2 2145.9c0-9.8 7.9-17.6 17.6-17.6 9.8 0 17.7 7.8 17.7 17.6 0 9.7-7.9 17.6-17.7 17.6-9.7 0-17.6-7.9-17.6-17.6z"/>
+		<path id="bag copy 2" class="s27" d="m5592.7 2083.1c0 0-29.7 2.2-50.7-24.2 0 0-29.7 4.4-28.6-7.7 1.1-12.2 4.4-12.2 4.4-12.2 0 0-16.5-7.7-8.8-16.5 7.7-8.8 8.8-25.3 23.1-16.5 0 0 32-34.1 44.1-35.2l25.3 82.6z"/>
+		<path id="Shape 61 copy 2" class="s27" d="m5546.4 2060c0 0 7.2-46-7.7-58.4"/>
+		<path id="Shape 62 copy 2" class="s27" d="m5517.8 2041.2l12.1-1.1-19.8-16.5h18.7"/>
+		<path id="Shape 63 copy 2" class="s27" d="m5550.8 2042.4l14.4 4.4"/>
+		<path id="bag2 copy 2" class="s27" d="m5592.7 2085.3l-11 52.9c-27.6-2.2-19.8-59.5-19.8-59.5"/>
+	</g>
+</svg>
