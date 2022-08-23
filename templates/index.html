@@ -1,10 +1,192 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style>
+  body{
+    background-image: url('/static/back.svg');
 
+  }
+  #myAnimation {
+  width: 75px;
+  transition: 2s;
+  height: 75px;
+  position: absolute;
+  background-size: cover;
+  top: 495px;
+  left: 495px;
+  border-style: solid;
+  background-image: url('/static/pawn.png')
+}
+.game-div {
+  position: relative;
+  width: 40%;
+  height: 40%;
+  margin-left: 25%;
+  background-color: red;
+
+}
+#currentAction {
+
+  padding-left: : 50%;
+
+
+}
+.actionBox {
+  width: 450px;
+  height: 225px;
+  /* position: absolute; */
+  background-color: transparent;
+  background-image: url('/static/chalk.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+  /* padding-left: 85%; */
+  margin-left: 80%;
+  margin-top: -40%;
+}
+
+
+.buttons {
+  margin-left: 80%;
+  margin-top: 5%;
+}
+#roll {
+  width: 150px;
+  height: 150px;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
+.rollDiv {
+  background-image: url('/static/dice.png');
+  background-size: cover;
+  width: 100px;
+  height: 100px;
+  color: white;
+  background-repeat: no-repeat;
+}
+
+</style>
 </head>
 
 <body>
-    
 
-<img src="{{ url_for('static', filename='monopoly.svg') }}"></img>
+<div id="game-div" class="game-div">
+  <img id="boardImg" src="{{ url_for('static', filename='monopoly.png') }}" height="100%" width="100%"></img>
+
+
+  <!-- <div id="myAnimation"></div> -->
+
+</div>
+
+<div class="actionBox">
+    <p style="padding-left: 6%; padding-top: 10%;" value="" id="currentAction"></p>
+</div>
+
+<div class="buttons">
+  <form method="post" id="roll-f">
+    <div class="rollDiv">
+      <button onclick="scan()" type="submit" name="roll" id="roll" value="roll"></button>
+    </div>
+  </form>
+  <!-- <button id="btn" onclick="myMove()">Click Me</button> -->
+</div>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+function scan() {
+  var currentAction = document.getElementById("currentAction");
+    setInterval(function(){
+        $.ajax({
+          url: "/ran",
+          type: "get",
+          success: function(response) {
+            //currentAction.value = response;
+            //currentAction.setAttribute("value", response);
+            currentAction.innerHTML = response
+           },
+          error: function(xhr) {
+              //Handel error
+          }
+        });
+    }, 1000);
+}
+</script>
+
+<script type="text/javascript">
+          // var id = null;
+          // function myMove() {
+          // var elem = document.getElementById("myAnimation");
+          //
+          // //var pos = 0;
+          // var width = "397"
+          // var height = "200"
+          // console.log(width);
+          // console.log(height);
+          // var up = height;
+          // var left = width;
+          //
+          // clearInterval(id);
+          // id = setInterval(frame, 10);
+          // function frame() {
+          //   if (up == 401) {
+          //     clearInterval(id);
+          //   } else {
+          //     up--;
+          //     left--;
+          //     elem.style.top = up + 'px';
+          //     elem.style.left = left + 'px';
+          //   }
+          // }
+          // }
+          // Prepare vars
+    //         var $object = document.getElementById('myAnimation');
+    //         var $btn = document.getElementById('btn');
+    //
+    //         var w = $('.boardImg').width()
+    //         var h = $('#boardImg').height()
+    //         console.log(h);
+    //         // var w = 397, h = 140;
+    //
+    //         // Attach a click handler to the button
+    //         $btn.addEventListener('click', function (event) {
+    //           // Modify the object's position to a random one within the window
+    //           $object.style.top = h + 'px';
+    //           $object.style.left = w + 'px';
+    //         }, false);
+    // myMove()
+
+</script>
+
+<!--Jquery Cdn -->
+<script src="https://code.jquery.com/jquery-3.5.1.js"
+  integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+  crossorigin="anonymous"></script>
+
+<script type="text/javascript">
+$(document).on('submit','#roll-f',function(e)
+           {
+console.log('hello');
+e.preventDefault();
+$.ajax({
+type:'POST',
+url:'/',
+data:{
+  roll:$("#roll").val()
+},
+success:function()
+{
+
+}
+})
+});
+</script>
+
 </body></html>
